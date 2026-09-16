@@ -16,8 +16,9 @@ and this project adheres to
 - ⬆️(backend) upgrade celery to version 5.6.3
 - ⚡️(backend) stop using LEFT(value, LENGTH(path)) in sql queries
 - 🚚(project) switch docspec image to ghcr.io/docspec/api #2553
-- 🚚(global) move favorite documents API endpoint 
+- 🚚(global) move favorite documents API endpoint
   to `/documents/favorites/` #2540
+- 💄(frontend) redesign 404 error standalone page #2696
 
 ### Fixed
 
